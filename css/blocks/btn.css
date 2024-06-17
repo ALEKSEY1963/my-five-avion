@@ -14,7 +14,7 @@
 }
 .btn--theme-dark {
   color: var(--white);
-  background: rgba(249, 249, 249, 0.16);
+  background: rgba(249, 249, 249, 0.15);
 }
 .btn--theme-light {
   color: var(--dark-primary);
