@@ -22,8 +22,7 @@
   pointer-events: none;
   color: var(--border-grey);
 }
-.stepper__btn--minus {
-}
+
 .stepper__input {
   width: 50px;
   border: none;
