@@ -27,6 +27,10 @@
 .hero__link {
   margin-bottom: auto;
 }
+.hero__link:focus-visible {
+  outline: 2px dashed var(--white);
+  outline-offset: var(--outline-offset);
+}
 .hero__descr {
   margin: 0;
   margin-top: 20px;
